@@ -7,3 +7,5 @@ youtube : https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_
 Slides : https://drive.google.com/drive/folders/0B41Zbb4c8HVyUndGdGdJSXd5d3M
 
 ##
+
+# TensorFlow_Exercise
